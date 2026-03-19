@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "CHANEL",
+  "base_artist": "Tyla",
+  "createdAt": "2026-03-19T10:31:19.972944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Coco Chanel (feat. Foxy Brown)",
+      "artist": "Nicki Minaj feat. Foxy Brown",
+      "has_synced": true,
+      "path": "select/01_Coco_Chanel_(feat._Foxy_Brown)_Nicki_Minaj_feat._Foxy_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Coco Chanel (feat. Foxy Brown)",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/02_Coco_Chanel_(feat._Foxy_Brown)_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chanel (Go Get It) (Mixed)",
+      "artist": "Young Thug feat. Gunna & Lil Baby",
+      "has_synced": true,
+      "path": "select/03_Chanel_(Go_Get_It)_(Mixed)_Young_Thug_feat._Gunna_&_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chanel (Go Get It) [feat. Gunna & Lil Baby]",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/04_Chanel_(Go_Get_It)_[feat._Gunna_&_Lil_Baby]_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Playa Chanel (feat. Young Thug)",
+      "artist": "Lil Gotit feat. Young Thug",
+      "has_synced": true,
+      "path": "select/05_Playa_Chanel_(feat._Young_Thug)_Lil_Gotit_feat._Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Playa Chanel (feat. Young Thug)",
+      "artist": "Lil Gotit",
+      "has_synced": true,
+      "path": "select/06_Playa_Chanel_(feat._Young_Thug)_Lil_Gotit.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chanel (feat. Lotto Ash)",
+      "artist": "Headie One feat. Lotto Ash",
+      "has_synced": true,
+      "path": "select/07_Chanel_(feat._Lotto_Ash)_Headie_One_feat._Lotto_Ash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chanel (feat. Lotto Ash)",
+      "artist": "Headie One",
+      "has_synced": true,
+      "path": "select/08_Chanel_(feat._Lotto_Ash)_Headie_One.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chanel (feat. Swae Lee & Pharrell)",
+      "artist": "Slim Jxmmi feat. Swae Lee, Rae Sremmurd & Pharrell Williams",
+      "has_synced": true,
+      "path": "select/09_Chanel_(feat._Swae_Lee_&_Pharrell)_Slim_Jxmmi_feat._Swae_Lee,_Rae_Sremmurd_&_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chanel (feat. Pharrell Williams)",
+      "artist": "Slim Jxmmi",
+      "has_synced": true,
+      "path": "select/10_Chanel_(feat._Pharrell_Williams)_Slim_Jxmmi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tabaco y Chanel - Re-Recorded",
+      "artist": "Bacilos feat. Morat",
+      "has_synced": false,
+      "path": "select/11_Tabaco_y_Chanel_-_Re-Recorded_Bacilos_feat._Morat.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chanel No. 5",
+      "artist": "VOILÀ",
+      "has_synced": false,
+      "path": "select/12_Chanel_No._5_VOILÀ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chanel",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/13_Chanel_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fake Chanel",
+      "artist": "Yellow Claw feat. A$AP Ferg & Creek Boyz",
+      "has_synced": true,
+      "path": "select/14_Fake_Chanel_Yellow_Claw_feat._A$AP_Ferg_&_Creek_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fake Chanel",
+      "artist": "Yellow Claw, A$AP Ferg, Creek Boyz",
+      "has_synced": true,
+      "path": "select/15_Fake_Chanel_Yellow_Claw,_A$AP_Ferg,_Creek_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Coco Chanel",
+      "artist": "Eladio Carrion feat. Bad Bunny",
+      "has_synced": true,
+      "path": "select/16_Coco_Chanel_Eladio_Carrion_feat._Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Chanel",
+      "artist": "Becky G feat. Peso Pluma",
+      "has_synced": true,
+      "path": "select/17_Chanel_Becky_G_feat._Peso_Pluma.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Chanel",
+      "artist": "Becky G",
+      "has_synced": true,
+      "path": "select/18_Chanel_Becky_G.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Chanel",
+      "artist": "Saigon Kick",
+      "has_synced": true,
+      "path": "select/19_Chanel_Saigon_Kick.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Chanel Pearls (with Jill Scott)",
+      "artist": "Conway the Machine feat. Jill Scott",
+      "has_synced": true,
+      "path": "select/20_Chanel_Pearls_(with_Jill_Scott)_Conway_the_Machine_feat._Jill_Scott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHANEL",
+      "artist": "Tyla",
+      "has_synced": false,
+      "path": "select/pl_01_CHANEL_Tyla.txt"
+    }
+  ]
+}
